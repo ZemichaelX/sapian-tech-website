@@ -2,7 +2,7 @@
 
 DESCRIPTION:
 
-TYNDALE is a free HTML website template built for digital studios and agencies. A modern, 
+An HTML website template built for digital studios and agencies. A modern, 
 attractive, one-page template packed with features for building responsive websites that would 
 stand out from the average. The features that come with this template also allows it to be 
 versatile so aside from agencies, it can also be used for other purposes such as portfolio, 
