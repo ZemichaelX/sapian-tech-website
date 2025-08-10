@@ -3358,6 +3358,23 @@ img.u-pull-left {
     color       : var(--color-1);
 }
 
+/* Individual stats count colors */
+.stats__item:nth-child(1) .stats__count {
+    color: #14424C;
+}
+
+.stats__item:nth-child(2) .stats__count {
+    color: #3A724F;
+}
+
+.stats__item:nth-child(3) .stats__count {
+    color: #C85D1B;
+}
+
+.stats__item:nth-child(4) .stats__count {
+    color: #DC8E43;
+}
+
 /* ------------------------------------------------------------------- 
  * responsive:
  * intro
