@@ -3351,7 +3351,7 @@ img.u-pull-left {
 }
 
 .stats__count {
-    font-family : var(--font-1);
+    font-family : "MuseoModerno", cursive;
     font-weight : 500;
     font-size   : calc(var(--text-size) * 5.1111);
     line-height : 1;
